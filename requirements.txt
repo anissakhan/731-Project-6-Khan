@@ -1,0 +1,1 @@
+This project utilizes Jupyter notebook and python libraries to recreate the workflow. Pandas, Numpy, matplotlib, and scikitlearn are required. Please see the Jupyter Notebook for import details.
